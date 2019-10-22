@@ -39,6 +39,8 @@ body {
   display: flex;
   flex-wrap: nowrap;
   flex-direction: row;
+  //right: 0;
+  transition: right 1s;
 
   &__item {
 
